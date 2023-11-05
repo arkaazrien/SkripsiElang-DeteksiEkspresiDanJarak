@@ -18,7 +18,9 @@ Program ini digunakan untuk mendeteksi ekspresi dan jarak antara layar monitor d
 
 **1. Git clone program**
 
+```bash
 git clone https://github.com/arkaazrien/SkripsiElang-DeteksiEkspresiDanJarak.git
+```
 
 **2. Download Model**
 
@@ -31,15 +33,21 @@ https://drive.google.com/file/d/1SaA8NdVx_sfZLz-T0ZyCnvcLgJsnQvW-/view?usp=shari
 Pastikan sebelum anda menginstall requirements.txt anda menginstall python 3.10 atau diatasnya
 
 
+```bash
 pip install -r requirements.txt
+```
 
 
 **4.. Jalankan Program**
 
 **a. untuk menjalankan program utama**
 
+```bash
 python main.py
+```
 
 **b. untuk menjalankan program kalibrasi**
 
+```bash
 python kalibrasi.py
+```
