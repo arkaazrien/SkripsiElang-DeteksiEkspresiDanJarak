@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1SaA8NdVx_sfZLz-T0ZyCnvcLgJsnQvW-/view?usp=shari
 
 **3. Install Requirements.txt**
 
-Pastikan sebelum anda menginstall requirements.txt anda menginstall python 3.10 atau diatasnya
+Pastikan sebelum anda menginstall requirements.txt,  anda telah menginstall python 3.10 atau diatasnya
 
 
 ```bash
