@@ -10,7 +10,7 @@ Prodi : Elektronika dan Instrumentasi UGM 2019
 
 **Deskripsi**
 
-Program ini digunakan untuk mendeteksi ekspresi dan jarak antara layar monitor dengan mata sehingga apabila ekspresi terdeteksi termasuk dalam kategori bahaya serta apabila jarak antara layar monitor dengan mata terdeteksi kurang dari sama dengan 40cm, maka akan muncul notifikasi.
+Program ini digunakan untuk mendeteksi ekspresi dan jarak antara layar monitor. ketika terdeteksi ekspresi kategori bahaya ≥ 70% setiap satu menit dan ketika jarak antara layar dengan mata ≤ 40 cm, maka akan muncul notifikasi.
 
 
 
